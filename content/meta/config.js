@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "MakerTribe", // <title>
   shortSiteTitle: "MakerTribe – web tutorials & resources", // <title> ending for posts and pages
   siteDescription: "Web tutorials & resources",
-  siteUrl: "http://makertribe.com/blog/",
+  siteUrl: "http://makertribe.com/",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
