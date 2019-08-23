@@ -1,6 +1,5 @@
 ---
-title: Success
+title: Failure
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+Your message has not been sent
